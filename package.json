@@ -18,6 +18,7 @@
         "esbenp.prettier-vscode", 
         "Gruntfuggly.todo-tree", 
         "tombonnike.vscode-status-bar-format-toggle", 
-        "xabikos.JavaScriptSnippets"
+        "xabikos.JavaScriptSnippets",
+        "eamodio.vscode-gitlens"
     ]
 }
