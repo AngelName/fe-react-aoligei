@@ -1,0 +1,23 @@
+{
+    "name": "fe-react-aoligei",
+    "displayName": "fe-react-aoligei",
+    "description": "react 拓展包",
+    "publisher":"bxer",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "arcticicestudio.nord-visual-studio-code", 
+        "christian-kohler.npm-intellisense", 
+        "dbaeumer.vscode-eslint", 
+        "dsznajder.es7-react-js-snippets", 
+        "esbenp.prettier-vscode", 
+        "Gruntfuggly.todo-tree", 
+        "tombonnike.vscode-status-bar-format-toggle", 
+        "xabikos.JavaScriptSnippets"
+    ]
+}
