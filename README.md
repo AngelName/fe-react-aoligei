@@ -18,5 +18,5 @@
 
 # 链接
 
-- [Github](https://github.com/AngelName/fe-react-aoligei/edit/master/README.md)
+- [Github](https://github.com/AngelName/fe-react-aoligei)
 - [VS CODE Marketplace](https://marketplace.visualstudio.com/items?itemName=bxer.fe-react-aoligei)

@@ -3,10 +3,12 @@
     "displayName": "fe react aoligei",
     "description": "react 拓展包",
     "publisher":"bxer",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.44.0"
     },
+    "icon": "logo.jpeg",
+    "repository": {"url": "https://github.com/AngelName/fe-react-aoligei"},
     "categories": [
         "Extension Packs"
     ],
