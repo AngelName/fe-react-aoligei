@@ -3,7 +3,7 @@
     "displayName": "fe react aoligei",
     "description": "react 拓展包",
     "publisher":"bxer",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.44.0"
     },
