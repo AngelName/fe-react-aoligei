@@ -1,26 +1,35 @@
 {
-    "name": "fe-react-aoligei",
-    "displayName": "fe react aoligei",
-    "description": "react 拓展包",
-    "publisher":"bxer",
-    "version": "0.0.3",
-    "engines": {
-        "vscode": "^1.44.0"
-    },
-    "icon": "logo.jpeg",
-    "repository": {"url": "https://github.com/AngelName/fe-react-aoligei"},
-    "categories": [
-        "Extension Packs"
-    ],
-    "extensionPack": [ 
-        "arcticicestudio.nord-visual-studio-code", 
-        "christian-kohler.npm-intellisense", 
-        "dbaeumer.vscode-eslint", 
-        "dsznajder.es7-react-js-snippets", 
-        "esbenp.prettier-vscode", 
-        "Gruntfuggly.todo-tree", 
-        "tombonnike.vscode-status-bar-format-toggle", 
-        "xabikos.JavaScriptSnippets",
-        "eamodio.vscode-gitlens"
-    ]
+  "name": "fe-react-aoligei",
+  "displayName": "fe react aoligei",
+  "description": "react 拓展包",
+  "publisher": "bxer",
+  "version": "0.0.3",
+  "engines": {
+    "vscode": "^1.44.0"
+  },
+  "icon": "logo.jpeg",
+  "repository": {
+    "url": "https://github.com/AngelName/fe-react-aoligei"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "dbaeumer.vscode-eslint",
+    "dsznajder.es7-react-js-snippets",
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "formulahendry.code-runner",
+    "Gruntfuggly.todo-tree",
+    "intellsmi.comment-translate",
+    "octref.vetur",
+    "Orta.vscode-jest",
+    "PKief.material-icon-theme",
+    "Shan.code-settings-sync",
+    "shd101wyy.markdown-preview-enhanced",
+    "tombonnike.vscode-status-bar-format-toggle",
+    "xabikos.JavaScriptSnippets"
+  ]
 }
